@@ -23,6 +23,13 @@ The overall variance for the entire dataset indicates that the current manufactu
 Please see the below screenshot of the T-test of the entire production lot in AutoRUs.
 ![Entire Lot T-Test](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.PNG)
 
+At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean.
+
 ### T-Test of Three Individual Lots
 Please see the below screenshot of the T-tests of three individual production lots in AutoRUs.
 ![Individual Lot T-Test](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/lots_t_test.PNG)
+
+* Lot 1 - At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 1.
+* Lot 2 - At a significance level of 0.05, we fail to reject the null hypthesis again since the p-value equals 0.6072.
+* Lot 3 - At a significance level of 0.05, we can reject the null hypothesis since the p-value equals 0.04168.
+
