@@ -34,5 +34,12 @@ Please see the below screenshot of the T-tests of three individual production lo
 * Lot 3 - At a significance level of 0.05, we can reject the null hypothesis since the p-value equals 0.04168.
 
 ## Study Design: MechaCar vs Competition
+Another statistical study that can be performed to determine MechaCar's standing against its competition is a linear regression on city and highway fuel efficiency. The metrics that can be included in this analysis are:
+* City and highway fuel efficiency: dependent variable
+* Vehicle weight: independent variable
+* AWD capabilities: independent variable
+* MPG: independent variable
+
+Null hypothesis: The weight, AWD capabilities, and MPG of the vehicle do not impact the city and highway fuel efficiency.
 
 
