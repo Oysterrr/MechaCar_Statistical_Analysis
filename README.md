@@ -17,3 +17,12 @@ Please see the below screenshots of the statistical summary of multiple producti
 ![Lot Individual Summary](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary_table.PNG)
 
 The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
+
+## T-Tests on Suspension Coils
+### T-Test of the Entire Lot
+Please see the below screenshot of the T-test of the entire production lot in AutoRUs.
+![Entire Lot T-Test](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.PNG)
+
+### T-Test of Three Individual Lots
+Please see the below screenshot of the T-tests of three individual production lots in AutoRUs.
+![Individual Lot T-Test](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/lots_t_test.PNG)
