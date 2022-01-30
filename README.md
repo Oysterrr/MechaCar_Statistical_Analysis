@@ -12,4 +12,8 @@ Please see the below screenshot of the linear regression summary.
 * As we can see from the summary, the multiple R-squared (0.7149) explains the output results can be highly explained by input value. The adjusted R-squared increases when the new term improves the model more than would be expected by chance and the adjusted R-squared (0.6825) also indicates this linear model predicts the MPG of MecharCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
-Please see the below screenshots of the linear regression summary.
+Please see the below screenshots of the statistical summary of multiple production lots in AutoRUs.
+![Lot Total Summary](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary_table.PNG)
+![Lot Individual Summary](https://github.com/Oysterrr/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary_table.PNG)
+
+The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
