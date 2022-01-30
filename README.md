@@ -33,3 +33,6 @@ Please see the below screenshot of the T-tests of three individual production lo
 * Lot 2 - At a significance level of 0.05, we fail to reject the null hypthesis again since the p-value equals 0.6072.
 * Lot 3 - At a significance level of 0.05, we can reject the null hypothesis since the p-value equals 0.04168.
 
+## Study Design: MechaCar vs Competition
+
+
